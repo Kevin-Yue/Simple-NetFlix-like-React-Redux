@@ -1,0 +1,27 @@
+body, html {
+    background: #141414;
+    color: #fff;
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    line-height: 1.2;
+}
+
+ul {
+    padding: 0;
+}
+
+.material-icons {
+    transition: color 0.3s ease;
+    color: rgb(109, 109, 109);
+}
+
+.material-icons:hover {
+    color: rgb(221, 221, 221);
+}
+
+i.material-icons {
+    font-size: 1.6em
+}
+
+.tooltip {
+    font-size: 0.7em
+}
